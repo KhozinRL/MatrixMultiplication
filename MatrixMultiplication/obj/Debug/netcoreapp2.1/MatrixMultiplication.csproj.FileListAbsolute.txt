@@ -1,0 +1,11 @@
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/bin/Debug/netcoreapp2.1/MatrixMultiplication.deps.json
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/bin/Debug/netcoreapp2.1/MatrixMultiplication.runtimeconfig.json
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/bin/Debug/netcoreapp2.1/MatrixMultiplication.runtimeconfig.dev.json
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/bin/Debug/netcoreapp2.1/MatrixMultiplication.dll
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/bin/Debug/netcoreapp2.1/MatrixMultiplication.pdb
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/obj/Debug/netcoreapp2.1/MatrixMultiplication.csprojAssemblyReference.cache
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/obj/Debug/netcoreapp2.1/MatrixMultiplication.csproj.CoreCompileInputs.cache
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/obj/Debug/netcoreapp2.1/MatrixMultiplication.AssemblyInfoInputs.cache
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/obj/Debug/netcoreapp2.1/MatrixMultiplication.AssemblyInfo.cs
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/obj/Debug/netcoreapp2.1/MatrixMultiplication.dll
+/Users/romankhozin/Projects/MatrixMultiplication/MatrixMultiplication/obj/Debug/netcoreapp2.1/MatrixMultiplication.pdb
